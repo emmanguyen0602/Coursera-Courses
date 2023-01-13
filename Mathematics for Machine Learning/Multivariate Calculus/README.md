@@ -1,6 +1,7 @@
 
 # About this course
-![CSV-logo-chapter-1-copy](https://user-images.githubusercontent.com/76781033/212261550-b8056517-e8f6-4dff-b037-37adc9372baa.png)
+
+![Tích phân](https://user-images.githubusercontent.com/76781033/212262325-aff34527-b6db-4def-ac1c-97a44a4de2f7.png)
 
 This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. We start at the very beginning with a refresher on the “rise over run” formulation of a slope, before converting this to the formal definition of the gradient of a function. We then start to build up a set of tools for making calculus easier and faster. 
 
